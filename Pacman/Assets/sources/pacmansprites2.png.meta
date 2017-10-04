@@ -1,0 +1,2745 @@
+fileFormatVersion: 2
+guid: e161b26d58101e9468b15cf586e5b90e
+timeCreated: 1502948722
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pacmansprites2_0
+    21300002: pacmansprites2_1
+    21300004: pacmansprites2_2
+    21300006: pacmansprites2_3
+    21300008: pacmansprites2_4
+    21300010: pacmansprites2_5
+    21300012: pacmansprites2_6
+    21300014: pacmansprites2_7
+    21300016: pacmansprites2_8
+    21300018: pacmansprites2_9
+    21300020: pacmansprites2_10
+    21300022: pacmansprites2_11
+    21300024: pacmansprites2_12
+    21300026: pacmansprites2_13
+    21300028: pacmansprites2_14
+    21300030: pacmansprites2_15
+    21300032: pacmansprites2_16
+    21300034: pacmansprites2_17
+    21300036: pacmansprites2_18
+    21300038: pacmansprites2_19
+    21300040: pacmansprites2_20
+    21300042: pacmansprites2_21
+    21300044: pacmansprites2_22
+    21300046: pacmansprites2_23
+    21300048: pacmansprites2_24
+    21300050: pacmansprites2_25
+    21300052: pacmansprites2_26
+    21300054: pacmansprites2_27
+    21300056: pacmansprites2_28
+    21300058: pacmansprites2_29
+    21300060: pacmansprites2_30
+    21300062: pacmansprites2_31
+    21300064: pacmansprites2_32
+    21300066: pacmansprites2_33
+    21300068: pacmansprites2_34
+    21300070: pacmansprites2_35
+    21300072: pacmansprites2_36
+    21300074: pacmansprites2_37
+    21300076: pacmansprites2_38
+    21300078: pacmansprites2_39
+    21300080: pacmansprites2_40
+    21300082: pacmansprites2_41
+    21300084: pacmansprites2_42
+    21300086: pacmansprites2_43
+    21300088: pacmansprites2_44
+    21300090: pacmansprites2_45
+    21300092: pacmansprites2_46
+    21300094: pacmansprites2_47
+    21300096: pacmansprites2_48
+    21300098: pacmansprites2_49
+    21300100: pacmansprites2_50
+    21300102: pacmansprites2_51
+    21300104: pacmansprites2_52
+    21300106: pacmansprites2_53
+    21300108: pacmansprites2_54
+    21300110: pacmansprites2_55
+    21300112: pacmansprites2_56
+    21300114: pacmansprites2_57
+    21300116: pacmansprites2_58
+    21300118: pacmansprites2_59
+    21300120: pacmansprites2_60
+    21300122: pacmansprites2_61
+    21300124: pacmansprites2_62
+    21300126: pacmansprites2_63
+    21300128: pacmansprites2_64
+    21300130: pacmansprites2_65
+    21300132: pacmansprites2_66
+    21300134: pacmansprites2_67
+    21300136: pacmansprites2_68
+    21300138: pacmansprites2_69
+    21300140: pacmansprites2_70
+    21300142: pacmansprites2_71
+    21300144: pacmansprites2_72
+    21300146: pacmansprites2_73
+    21300148: pacmansprites2_74
+    21300150: pacmansprites2_75
+    21300152: pacmansprites2_76
+    21300154: pacmansprites2_77
+    21300156: pacmansprites2_78
+    21300158: pacmansprites2_79
+    21300160: pacmansprites2_80
+    21300162: pacmansprites2_81
+    21300164: pacmansprites2_82
+    21300166: pacmansprites2_83
+    21300168: pacmansprites2_84
+    21300170: pacmansprites2_85
+    21300172: pacmansprites2_86
+    21300174: pacmansprites2_87
+    21300176: pacmansprites2_88
+    21300178: pacmansprites2_89
+    21300180: pacmansprites2_90
+    21300182: pacmansprites2_91
+    21300184: pacmansprites2_92
+    21300186: pacmansprites2_93
+    21300188: pacmansprites2_94
+    21300190: pacmansprites2_95
+    21300192: pacmansprites2_96
+    21300194: pacmansprites2_97
+    21300196: pacmansprites2_98
+    21300198: pacmansprites2_99
+    21300200: pacmansprites2_100
+    21300202: pacmansprites2_101
+    21300204: pacmansprites2_102
+    21300206: pacmansprites2_103
+    21300208: pacmansprites2_104
+    21300210: pacmansprites2_105
+    21300212: pacmansprites2_106
+    21300214: pacmansprites2_107
+    21300216: pacmansprites2_108
+    21300218: pacmansprites2_109
+    21300220: pacmansprites2_110
+    21300222: pacmansprites2_111
+    21300224: pacmansprites2_112
+    21300226: pacmansprites2_113
+    21300228: pacmansprites2_114
+    21300230: pacmansprites2_115
+    21300232: pacmansprites2_116
+    21300234: pacmansprites2_117
+    21300236: pacmansprites2_118
+    21300238: pacmansprites2_119
+    21300240: pacmansprites2_120
+    21300242: pacmansprites2_121
+    21300244: pacmansprites2_122
+    21300246: pacmansprites2_123
+    21300248: pacmansprites2_124
+    21300250: pacmansprites2_125
+    21300252: pacmansprites2_126
+    21300254: pacmansprites2_127
+    21300256: pacmansprites2_128
+    21300258: pacmansprites2_129
+    21300260: pacmansprites2_130
+    21300262: pacmansprites2_131
+    21300264: pacmansprites2_132
+    21300266: pacmansprites2_133
+    21300268: pacmansprites2_134
+    21300270: pacmansprites2_135
+    21300272: pacmansprites2_136
+    21300274: pacmansprites2_137
+    21300276: pacmansprites2_138
+    21300278: pacmansprites2_139
+    21300280: pacmansprites2_140
+    21300282: pacmansprites2_141
+    21300284: pacmansprites2_142
+    21300286: pacmansprites2_143
+    21300288: pacmansprites2_144
+    21300290: pacmansprites2_145
+    21300292: pacmansprites2_146
+    21300294: pacmansprites2_147
+    21300296: pacmansprites2_148
+    21300298: pacmansprites2_149
+    21300300: pacmansprites2_150
+    21300302: pacmansprites2_151
+    21300304: pacmansprites2_152
+    21300306: pacmansprites2_153
+    21300308: pacmansprites2_154
+    21300310: pacmansprites2_155
+    21300312: pacmansprites2_156
+    21300314: pacmansprites2_157
+    21300316: pacmansprites2_158
+    21300318: pacmansprites2_159
+    21300320: pacmansprites2_160
+    21300322: pacmansprites2_161
+    21300324: pacmansprites2_162
+    21300326: pacmansprites2_163
+    21300328: pacmansprites2_164
+    21300330: pacmansprites2_165
+    21300332: pacmansprites2_166
+    21300334: pacmansprites2_167
+    21300336: pacmansprites2_168
+    21300338: pacmansprites2_169
+    21300340: pacmansprites2_170
+    21300342: pacmansprites2_171
+    21300344: pacmansprites2_172
+    21300346: pacmansprites2_173
+    21300348: pacmansprites2_174
+    21300350: pacmansprites2_175
+    21300352: pacmansprites2_176
+    21300354: pacmansprites2_177
+    21300356: pacmansprites2_178
+    21300358: pacmansprites2_179
+    21300360: pacmansprites2_180
+    21300362: pacmansprites2_181
+    21300364: pacmansprites2_182
+    21300366: pacmansprites2_183
+    21300368: pacmansprites2_184
+    21300370: pacmansprites2_185
+    21300372: pacmansprites2_186
+    21300374: pacmansprites2_187
+    21300376: pacmansprites2_188
+    21300378: pacmansprites2_189
+    21300380: pacmansprites2_190
+    21300382: pacmansprites2_191
+    21300384: pacmansprites2_192
+    21300386: pacmansprites2_193
+    21300388: pacmansprites2_194
+    21300390: pacmansprites2_195
+    21300392: pacmansprites2_196
+    21300394: pacmansprites2_197
+    21300396: pacmansprites2_198
+    21300398: pacmansprites2_199
+    21300400: pacmansprites2_200
+    21300402: pacmansprites2_201
+    21300404: pacmansprites2_202
+    21300406: pacmansprites2_203
+    21300408: pacmansprites2_204
+    21300410: pacmansprites2_205
+    21300412: pacmansprites2_206
+    21300414: pacmansprites2_207
+    21300416: pacmansprites2_208
+    21300418: pacmansprites2_209
+    21300420: pacmansprites2_210
+    21300422: pacmansprites2_211
+    21300424: pacmansprites2_212
+    21300426: pacmansprites2_213
+    21300428: pacmansprites2_214
+    21300430: pacmansprites2_215
+    21300432: pacmansprites2_216
+    21300434: pacmansprites2_217
+    21300436: pacmansprites2_218
+    21300438: pacmansprites2_219
+    21300440: pacmansprites2_220
+    21300442: pacmansprites2_221
+    21300444: pacmansprites2_222
+    21300446: pacmansprites2_223
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pacmansprites2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_12
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 261
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_25
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_28
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_30
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 241
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_34
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_37
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_38
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_39
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_40
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_43
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_44
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_45
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_46
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_47
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_49
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_50
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_54
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_55
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_56
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_57
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_58
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_59
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_60
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_61
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_62
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_63
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_65
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_66
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_67
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_68
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_70
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_72
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_73
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_74
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_75
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_76
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_77
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_78
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_79
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_81
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_82
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_83
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_84
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_85
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_86
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_87
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_88
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_89
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_90
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_91
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_92
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_93
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_94
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_95
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_97
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_98
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_99
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_100
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_101
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_102
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_103
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_104
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_105
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_107
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_108
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_109
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_110
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_111
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 141
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_112
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_113
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_114
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_115
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_116
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_117
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_118
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_119
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_120
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_121
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_122
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_123
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_124
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_125
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_127
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_128
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_129
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_130
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_131
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_132
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_133
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_134
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_136
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_137
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_138
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_139
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_140
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_141
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_142
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_143
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_144
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_145
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_146
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_147
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_148
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_149
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_150
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_151
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_152
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_153
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_154
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_155
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_156
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_157
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_158
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_159
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 81
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_160
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_161
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_162
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_163
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_164
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_165
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_166
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_167
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_168
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_169
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_170
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_171
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_172
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_173
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_174
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_175
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_176
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_177
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_178
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_179
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_180
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_181
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_182
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_183
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_184
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_185
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_186
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_187
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_188
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_189
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_190
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_191
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 41
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_192
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_193
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_194
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_195
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_196
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_197
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_198
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_199
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_200
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_201
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_202
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_203
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_204
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_205
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_206
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_207
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 21
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_208
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_209
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_210
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_211
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_212
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_213
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_214
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_215
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_216
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_217
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_218
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_219
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_220
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_221
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_222
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pacmansprites2_223
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: pacman
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
